@@ -1,7 +1,6 @@
-import styles from './PaginaPadrao.module.scss';
+import styles from './Padrao.module.scss';
 import stylesTema from 'styles/Tema.module.scss';
 import { Outlet } from 'react-router-dom';
-import React from 'react';
 
 export default function PaginaPadrao({ children }: { children?: React.ReactNode}) {
   return (
