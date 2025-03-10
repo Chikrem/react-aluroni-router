@@ -4,9 +4,10 @@ import Cardapio from 'pages/Cardapio';
 import Sobre from 'pages/Sobre';
 import Footer from 'common/Footer';
 import NotFound from 'pages/NotFound';
-import Menu from 'common/Menu';
-import PaginaPadrao from 'common/PaginaPadrao';
+
 import Prato from 'pages/Prato';
+import Menu from 'common/menu';
+import PaginaPadrao from 'common/paginaPadrao';
 
 export default function AppRouter() {
   return (

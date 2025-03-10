@@ -3,7 +3,7 @@ import { useParams, useNavigate } from 'react-router-dom';
 import cardapio from '../../data/cardapio.json';
 import TagsPrato from 'common/TagsPrato';
 import NotFound from 'pages/NotFound';
-import PaginaPadrao from 'common/PaginaPadrao';
+import PaginaPadrao from 'common/paginaPadrao';
 
 export default function Prato() {
   const { id } = useParams();
