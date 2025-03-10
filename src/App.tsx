@@ -1,4 +1,5 @@
-import React from 'react';
+// Início Aula-3
+
 import logo from './logo.svg';
 import './App.css';
 
