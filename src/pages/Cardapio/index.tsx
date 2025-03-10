@@ -12,7 +12,7 @@ export default function Cardapio() {
   const [filtro, setFiltro] = useState<number | null>(null);
   const [ordenador, setOrdenador] = useState('');
   return (
-    <section className={styles.cardapio}>
+    <section>
       <h3 className={stylesTema.titulo}>Cardápio</h3>
       <Buscador busca={busca} setBusca={setBusca} />
       <div className={styles.cardapio__filtros}>
