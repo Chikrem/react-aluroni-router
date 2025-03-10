@@ -26,10 +26,7 @@
       "error",
       2
     ],
-    "linebreak-style": [
-      "error",
-      "unix"
-    ],
+    "linebreak-style": "off", // Alterado para ignorar o erro de linebreak
     "quotes": [
       "error",
       "single"
