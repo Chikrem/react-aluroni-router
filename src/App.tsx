@@ -1,4 +1,4 @@
-// Final Curso
+// Início Curso 2 = Optimizando Performance
 
 import React from 'react';
 import logo from './logo.svg';
